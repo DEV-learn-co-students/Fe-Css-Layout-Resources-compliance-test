@@ -15,3 +15,4 @@
 - [CSS Sticky Footer Tutorial](http://css-tricks.com/snippets/css/sticky-footer/)
 - [CSS 3 Column Fluid Layout Tutorial](http://alistapart.com/article/holygrail)
 - [Fixed Ad Size Column in Fluid Layout - Code Example](http://jsfiddle.net/flatiron_school/qaeDP/)
+<a href='https://learn.co/lessons/fe-css-layout-resources' data-visibility='hidden'>View this lesson on Learn.co</a>
